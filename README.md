@@ -1,6 +1,7 @@
 
 # App fullstack - challenge
 
+![image](https://user-images.githubusercontent.com/5757322/202897520-15872650-94ee-474a-832a-5cb610f9113f.png)
 
 
 
@@ -102,3 +103,4 @@
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `id` | `int` | **Required**.|
+
